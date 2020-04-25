@@ -2,4 +2,4 @@
 
 # Pixel Perfect Design
 
-It is a basic react-native app. In wich react-native-firebase module is integrated, login and signup functionality has been added into it. An
+It is a basic react-native app. In which react-native-firebase module has been integrated, login and signup functionality has been added into it.
